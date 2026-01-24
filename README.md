@@ -1,6 +1,13 @@
 ## Hi there 👋
 
+## Action Adventure
+<h1 align="center"> My Work <h1>
+<p align="center">
+<img align="left" height="150" alt="5fLuia" src="https://github.com/user-attachments/assets/feb90efc-565a-44a0-a22a-51b55cce9a80" />
+<a href="https://github.com/Gizmo-Studios/Flungus"> <img align="center" height="150" alt="5fLuia" src="https://github.com/user-attachments/assets/feb90efc-565a-44a0-a22a-51b55cce9a80" /> </a>
+<img align="right" height="150" alt="5fLuia" src="https://github.com/user-attachments/assets/feb90efc-565a-44a0-a22a-51b55cce9a80" /></p>
 <!--
+
 **Gizmo-Studios/Gizmo-Studios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
