@@ -1,23 +1,26 @@
-## Hi there 👋
+<h1 align="center"> Game Engineer & Tech Artist </h1>
 
-## Action Adventure
-<h1 align="center"> My Work <h1>
+
+
+<h2 align="center"> Projects: </h2>
+  
 <p align="center">
-<img align="left" height="150" alt="5fLuia" src="https://github.com/user-attachments/assets/feb90efc-565a-44a0-a22a-51b55cce9a80" />
-<a href="https://github.com/Gizmo-Studios/Flungus"> <img align="center" height="150" alt="5fLuia" src="https://github.com/user-attachments/assets/feb90efc-565a-44a0-a22a-51b55cce9a80" /> </a>
-<img align="right" height="150" alt="5fLuia" src="https://github.com/user-attachments/assets/feb90efc-565a-44a0-a22a-51b55cce9a80" /></p>
+<a href="https://github.com/Gizmo-Studios/Flungus">
+<img width="600" height="133" alt="Placeholder Banner" src="https://github.com/user-attachments/assets/bedc7416-435d-45c2-ba30-cfc0043b3f20" /> 
+</a>
+<p align="center">
+<a href="https://github.com/Gizmo-Studios/Flungus">
+<img width="600" height="133" alt="Placeholder Banner" src="https://github.com/user-attachments/assets/bedc7416-435d-45c2-ba30-cfc0043b3f20" /> 
+</a>
+<p align="center">
+<a href="https://github.com/Gizmo-Studios/Flungus">
+<img width="600" height="133" alt="Placeholder Banner" src="https://github.com/user-attachments/assets/bedc7416-435d-45c2-ba30-cfc0043b3f20" /> 
+</a>
+
+</p>
+
 <!--
 
-**Gizmo-Studios/Gizmo-Studios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey I am Denis and a Game Engineer and Tech Artist.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
