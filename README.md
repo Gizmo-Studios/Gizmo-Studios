@@ -2,6 +2,20 @@
 
 
 
+
+<h3>🌟 My Favorite Project:</h3>
+<div>
+<img align="right"  width="500"   alt="Movement Tester" src="https://github.com/user-attachments/assets/38c936e5-005a-4ff2-b3f1-758a2a97f92f" /> 
+For my first Godot Project Scarlet Shadow I build a small Movement Tester that was inspired by <a href= "https://dawnosaur.itch.io/platformer-movement-demo-2"> DawnosaurDev </a> and was aimed to help with finding the best fitting movement for the player character.
+
+I added all the typical settings, like coyote time, and made them adjustable. This way it was easy to find the best fitting movement but also interesting to see how everyone had a different idea of "perfect" movement.
+
+It's a small project but it combines my love for good feeling gameplay and the "procedural" aspect of changing and playing around with settings until they match your ideal vision.
+
+https://gizmooe.itch.io/2d-movement-tester
+<br clear=all>
+</div>
+
 <h2 align="center"> Projects: </h2>
 
 <p align="center">
