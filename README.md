@@ -1,7 +1,7 @@
 <h1 align="center"> 🎮 Gameplay Programmer & Tech Artist 🎨 </h1>
 
 Hey <br>
-I'm Gizmo,<br> <strong>a Gameplay Programmer, Tech and 3D Artist, </strong> <br>
+I'm Gizmo,<br> <u> <strong>a Gameplay Programmer, Tech and 3D Artist, </strong> </u> <br>
 interested in everything Game Developement! <br>
 
 <h2> 🎯 My Core Skills: </h2>
