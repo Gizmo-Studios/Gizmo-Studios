@@ -1,10 +1,22 @@
-<h1 align="center"> Gameplay Programmer & Tech Artist </h1>
+<h1 align="center"> 🎮 Gameplay Programmer & Tech Artist 🎨 </h1>
 
-Hey I'm Gizmo, a Gameplay Programmer, Tech and 3D Artist, interested in everything Game Developement!
+Hey <br>
+I'm Gizmo,<br> <strong>a Gameplay Programmer, Tech and 3D Artist, </strong> <br>
+interested in everything Game Developement! <br>
+
+<h2> 🎯 My Core Skills: </h2>
+
+Languages: <code> C#, C++, GDScript, Python, Vex</code> <br>
+Engines:  <code> Unreal, Unity, Godot</code> <br>
+Gameplay:  <code> Player Movement, Combat, Networking </code> <br>
+Softwares:  <code> 3Ds Max, Houdini, ZBrush, Substance </code> <br>
+Graphics:  <code> Hardsurface /Prop Modelling, Sculpting, VFX</code> <br>
+Tools:  <code> Perforce, Tortoise, Git</code> <br>
 
 
 
-<h3>🌟 My Favorite Project:</h3>
+
+<h2>🌟 My Favorite Project:</h2>
 <div>
 <img align="right"  width="500"   alt="Movement Tester" src="https://github.com/user-attachments/assets/38c936e5-005a-4ff2-b3f1-758a2a97f92f" /> 
 For my first Godot project, Scarlet Shadow, I built a small movement tester that was inspired by
