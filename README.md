@@ -54,6 +54,7 @@ https://gizmooe.itch.io/2d-movement-tester
 <a href="https://github.com/Gizmo-Studios/Scarlet-Shadow">
 <img width="600" height="50" alt="Scarlet_Shadow_Banner" src="https://github.com/user-attachments/assets/203ea2ec-41ab-4608-a545-78838e86c99e" /> 
 </a>
+<h3 align="center"> 3D Art Portfolio: </h3>
 <p align="center">
 <a href="https://www.artstation.com/denis_3d">
 <img width="600" height="50" alt="Artstation_Banner" src="https://github.com/user-attachments/assets/2b15869a-710e-4153-93dd-5f7528f1ec5b" />
