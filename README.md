@@ -32,11 +32,12 @@ https://gizmooe.itch.io/2d-movement-tester
 
 <h2 align="center"> Projects: </h2>
 
+<h3 align="center"> 2026: </h3>
 <p align="center">
 <a href="https://github.com/Gizmo-Studios/The-Sealed-King">
 <img width="600" height="50"  alt="Sealed_King_Banner" src="https://github.com/user-attachments/assets/56274070-38c9-4a5c-8376-f2e5f5c3cb3b" /> 
 </a>
-
+<h3 align="center"> 2025: </h3>
 <p align="center">
 <a href="https://github.com/Gizmo-Studios/Tech-Art-Collection">
 <img width="600" height="50" alt="Tech_Art_Banner" src="https://github.com/user-attachments/assets/3fb7f33a-e431-44b7-845f-66717b9a9693" /> 
